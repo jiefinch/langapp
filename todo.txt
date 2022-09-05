@@ -1,0 +1,4 @@
+BUGS TO FIX:
+-- guest saved over past player
+-- character creation saved "english" instead of en --> workaround just refer english > en
+-- says wrong despite right (sa)
