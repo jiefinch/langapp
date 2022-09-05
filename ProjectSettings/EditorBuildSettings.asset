@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: af4a5dbf9f4224648b217765cd917537
+  - enabled: 1
+    path: Assets/Scenes/Creation.unity
+    guid: e4b9cfc6ca066a443996d47034bd0b98
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 037dca3d3d8af1343ad4616cc651c014
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2794bd2cdad3d4b459d9f6a9b4df516d
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: de7847c4094077745b1765279a99c9e3
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 494a735363b34f04d95eaa824001403e
+  - enabled: 1
+    path: Assets/Scenes/Customize.unity
+    guid: 77a24704b36aac54ca2e9a87ba884453
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 46dce2eb25011194388d5d4417fbf221
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 6e2a397e37221344e9e707a8986ee76a
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0aefad14011c4454d8de6f62468cba13, type: 2}

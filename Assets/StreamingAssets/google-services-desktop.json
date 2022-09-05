@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103670211209",
+    "firebase_url": "https://kaist-lang-learner-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "kaist-lang-learner",
+    "storage_bucket": "kaist-lang-learner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103670211209:android:8c1540b3c5d9ef29c19c58",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103670211209-68v2udr2j8d4u62td07rc9alqae4v1bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LI5unrxi5g4S3oNflfO2458EIdnHj5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103670211209-68v2udr2j8d4u62td07rc9alqae4v1bm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103670211209-ec4bla918lh7sri1ktg658s01u7vki92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.com.unity.template.mobile2D"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
